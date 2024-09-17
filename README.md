@@ -8,7 +8,7 @@ A script that works like qres.exe to modify, display resolution and refresh rate
 Set resolution to 1920x1080 with a 60Hz refresh rate.
 
 ```pwsh
-.\qres-powershell.ps1 1920 1080 60
+.\qresp.ps1 1920 1080 60
 ```
 
 # Possible Issues
